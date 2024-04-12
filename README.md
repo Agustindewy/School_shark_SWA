@@ -8,3 +8,4 @@ Unfortunately, analyses (both modeling and habitat associations) cannot be fully
 Freely available occurrence data and all calibration data are available at https://www.int-res.com/articles/suppl/m697p081_supp/
 
 Please contact me at agustindewy@gmail.com if you have any questions.
+ 
